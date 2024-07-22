@@ -1,5 +1,5 @@
 # fashion-recommender-system
-<<<<<<< HEAD
+## HEAD
 A Deep Learning based Fashion Recommender System using the ResNET50
 fashion system
 hello
